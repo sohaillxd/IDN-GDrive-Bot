@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5848725712:AAEpmGGXQixxBF10iUEqmm028oWTgV9CTGM"
     APP_ID = "7315569"
     API_HASH = "385142ac9b5ba02f789a76b688849460"
-    DATABASE_URL = "postgres://forgdbot_user:pLhUjSeluXEbDsOsaSwRLM1AFLFHcfmG@dpg-ce05m1la4992915p7ej0-a/forgdbot"
+    DATABASE_URL = "postgres://forgdbot_user:pLhUjSeluXEbDsOsaSwRLM1AFLFHcfmG@dpg-ce05m1la4992915p7ej0-a.oregon-postgres.render.com/forgdbot"
     SUDO_USERS = "1704822789" # Separated by space.
     SUPPORT_CHAT_LINK = "-894101322"
     DOWNLOAD_DIRECTORY = "./downloads/"
